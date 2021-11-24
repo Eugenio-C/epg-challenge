@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.epg.challenge.entity;
 
 import java.util.List;
