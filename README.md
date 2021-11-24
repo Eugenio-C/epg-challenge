@@ -46,11 +46,11 @@ After discussing some questions about the requirements, the following interpreta
 REQUIREMENT 2:\
 For APPs specified like the example below:
 >Volume: 100/day - APP: 2%\
->Volume: 200/day - APP: 1%\
+>Volume: 200/day - APP: 1%
 
 From 1-100 transactions APP would be 2%.\
 From 101-200 transactions APP would be 1%.\
-Above 200 transactions APP would still be 1%.\
+Above 200 transactions APP would still be 1%.
 
 Billing will be calculated taking applying the average daily number of transactions (transactions in month / days in month). For the example above, for 30000 transactions the average daily volume would be 100/day and the APP of 2% would be applied to all transactions in that month, even if some of the days had more than 100 transactions/day.
 

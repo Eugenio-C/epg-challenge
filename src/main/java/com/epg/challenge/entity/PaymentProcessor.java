@@ -12,10 +12,6 @@ import javax.persistence.FetchType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 
-/**
- * @author 0006973
- *
- */
 
 @Entity
 public class PaymentProcessor {
